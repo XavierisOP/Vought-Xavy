@@ -1,0 +1,7 @@
+{
+  "name": "Vought",
+  "description": "A Simple Discord Music Bot!",
+  "repository": "https://github.com/",
+  "logo": "https://cdn.discordapp.com/emojis/786593063040581632",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
