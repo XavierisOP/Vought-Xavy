@@ -20,6 +20,6 @@
     "util": "^0.10.3",
     "youtube-info": "^1.2.0",
     "youtube-node": "^1.3.2",
-    "ytdl-core": "github:fent"
+    "ytdl-core": "github:fent/node-ytdl-core#master"
   }
 }
